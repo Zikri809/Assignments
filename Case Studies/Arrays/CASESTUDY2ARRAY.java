@@ -1,5 +1,4 @@
-import java.util.Scanner;//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
 public class CASESTUDY2ARRAY {
     public static void display(int [][] ticketquant){
         System.out.println("             City 1     City 2      City 3      City 4      City 5");
